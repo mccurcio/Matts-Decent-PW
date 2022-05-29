@@ -1,30 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Decent-Password Page
+
+This Python Jupyter notebook/function generates a 3 word password with a number and special character.
+
+It uses the [What3words](https://what3words.com) API that can provide either: 
+
+1. genereates a three word name for any point on the globe given a latitiude, and longitude as inputs 
+2. genereates the latitiude, and longitude given a three word address
+
+What3words has a free tier API where you can sign up.
+
+Using their API, I made a simple function to return *'decent'* random passwords with
+
+a number and special character woven into the 3 word location by default.
+
+https://github.com/mccurcio/Matts-Decent-PW/blob/main/What3Words%20Password%20Generator%20ala%20MCC.ipynb
+
+---
+
+NOTES For Github Project Pages
 
 You can use the [editor on GitHub](https://github.com/mccurcio/Matts-Decent-PW/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
